@@ -67,7 +67,7 @@ footer {
     position: absolute;
     top: 10px;
     left: 10px; /* Move the button to the left side */
-    font-size: 30px; /* Make the button larger */
+    font-size: 10px; /* Make the button larger */
     cursor: pointer;
     color: red; /* Change the color to red */
 }
